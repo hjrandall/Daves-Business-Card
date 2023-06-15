@@ -1,0 +1,35 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  box-sizing: border-box;
+
+  /* color-scheme: light dark; */
+  color: rgb(255, 255, 255);
+  background-image: url('./assets/bricks-459299_1920.jpg');
+  background-repeat: no-repeat;
+  background-size:auto;
+  background-position: center;
+  background-color: #5b5e5f;
+  
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: 100%;
+}
+
+
+/* @media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+} */
